@@ -1,0 +1,12 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it 
+is easier to update the theme. Simply copy an existing style 
+from style.css to this file, and modify it to your liking. */
+
+
+#logo .site-title a { color: rgba(10, 67, 190, 0.71); text-transform:none; text-decoration:none; -webkit-mask-image: -webkit-gradient(linear, left top,      left bottom, from(#000), to(rgba(0,0,0,0.1))); text-shadow: 0 1px 1px rgba(0,0,0,0.6);}
